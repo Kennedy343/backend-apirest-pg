@@ -20,3 +20,6 @@ Este proyecto es una **API REST** desarrollada con **NestJS** que permite la man
 ```bash
 git clone https://github.com/Kennedy343/backend-apirest-pg.git
 cd backend-apirest-pg
+```
+---
+Enlace al video: https://youtu.be/BnCuDX96PTo
